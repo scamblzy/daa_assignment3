@@ -101,11 +101,9 @@ The benchmark plots are stored in the `results/plots/` directory.
 **Execution Time vs. Number of Vertices**
 
 
-![Execution Time vs Number of Vertices](src/results/plots/execution_time_vs_vertices.png)
+![Execution Time vs Number of Vertices](3asik/src/results/plots/execution_time_vs_vertices.png)
 
-**Execution Time vs. Number of Edges**
-
-![Execution Time vs Number of Edges](src/results/plots/execution_time_vs_edges.png)
+![Execution Time vs Number of Edges](3asik/src/results/plots/execution_time_vs_edges.png)
 
 
 ## 6. Comparison and Discussion
