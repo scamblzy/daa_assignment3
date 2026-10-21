@@ -1,0 +1,19 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled files
+out/
+target/
+*.class
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
